@@ -5,7 +5,7 @@
   "hide_system_dialogs": true,
   "device_wake_time_wednesday": "06:30",
   "device_sleep_time_saturday": "",
-  "automatic_config_url": "https://www.lirumlarum.ch/tablets/tabletes.json",
+  "automatic_config_url": "https://snowtimswiss.github.io/tablets/tablets.json",
   "browser_show_print_icon": false,
   "browser_home_page": "https://www.google.com",
   "sleep_power_connect": false,
